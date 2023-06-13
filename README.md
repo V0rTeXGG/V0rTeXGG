@@ -1,4 +1,4 @@
-![Header](https://github.com/V0rTeXGG/VorTeXGG/blob/main/assets/1659525647_18-kartinkin-net-p-neonovii-gorod-piksel-art-oboi-20.png)
+<!-- ![Header](https://github.com/V0rTeXGG/VorTeXGG/blob/main/assets/1659525647_18-kartinkin-net-p-neonovii-gorod-piksel-art-oboi-20.png) -->
 
 ## Hello everyone. I am a novice frontend developer
 
