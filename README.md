@@ -27,4 +27,3 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=V0rTeXGG&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub Streak](https://streak-stats.demolab.com?user=regidf12&theme=react&hide_border=true&border_radius=10)&nbsp;
